@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantiA04
-- 👀 I’m interested in Web Development and Graphic Design
+- 👀 I’m interested in Web Development and UX/UI Design
 - 🌱 I’m currently learning Java Backend Development and English
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
